@@ -1,9 +1,3 @@
 shadowsocks=34.209.78.103:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=1678070286.659107
-
 shadowsocks=3.35.219.165:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=1678070286.659135
-
 shadowsocks=13.125.176.172:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=1678070286.659144
-
-shadowsocks=18.183.109.71:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=1678070286.659153
-
-shadowsocks=3.39.224.127:443, method=aes-256-cfb, password=amazonskr05, fast-open=false, udp-relay=false, tag=1678070286.659162
