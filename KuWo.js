@@ -4,7 +4,7 @@
 
 ^.*?kuwo\.cn/music\.pay\?newver=3$ ^POST url-and-header request-body (?<=ids\=)\d+ request-body 6588259
 
-^(?!.*img).*?(kuwo\.cn|lrts\.me)(/vip|/openapi)?(/enc|/v[1,2]/(user(/vip\?(op\=ui|_t)|base)|theme|sysinfo|api(?!/search)|album)|/kuwopay/vip-tab/setting|tab|/a.p$|/(EcomResource|(Mobile)?Ad)Serv(er|ice)) url script-response-body https://napi.ltd/script/KuWo/KuWo.js
+^(?!.*img).*?(kuwo\.cn|lrts\.me)(/vip|/openapi)?(/enc|/v[1,2]/(user(/vip\?(op\=ui|_t)|base)|theme|sysinfo|api(?!/search)|album)|/kuwopay/vip-tab/setting|tab|/a.p$|/(EcomResource|(Mobile)?Ad)Serv(er|ice)) url script-response-body https://raw.githubusercontent.com/imao7/Quan/master/KuWo.js
 
 [mitm]
 
