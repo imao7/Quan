@@ -1,4 +1,4 @@
-var url = "https://api.ip.sb/geoip"
+  var url = "https://api.ip.sb/geoip"
   var opts = {
       policy: $environment.params
   };
