@@ -5,7 +5,7 @@ QuantumultX :
 ************************
 
 [rewrite_remote]
-https://raw.githubusercontent.com/qiangxinglin/Emby/main/QuantumultX/emby.conf, tag=Emby Premiere, update-interval=86400, opt-parser=false, enabled=true
+https://raw.githubusercontent.com/imao7/Quan/master/emby.conf, tag=Emby解锁播放, update-interval=172800, opt-parser=true, enabled=true
 
 */
 
