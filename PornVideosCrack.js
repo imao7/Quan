@@ -1,5 +1,4 @@
 
-
 /******************************
 
 脚本功能：欲漫涩解锁会员视频
@@ -14,7 +13,7 @@
 *******************************
 [rewrite_local]
 # > 欲漫涩解锁会员视频
-^https?:\/\/.*\.com\/api\/app\/media url script-request-header https://raw.githubusercontent.com/imao7/Quan/master/PornVideosCrack.js
+^https?:\/\/.*\.com\/api\/app\/media url script-request-header https://raw.githubusercontent.com/yqc007/QuantumultX/master/PornVideosCrack.js
 
 [mitm] 
 hostname = zjgeo.eqobc.com, xnour.xonap.com, opzzy.kefsww.com, tqrbq.mpckv.com
