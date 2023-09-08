@@ -16,7 +16,7 @@
 ^https?:\/\/.*\.com\/api\/app\/media url script-request-header https://raw.githubusercontent.com/yqc007/QuantumultX/master/PornVideosCrack.js
 
 [mitm] 
-hostname = zjgeo.eqobc.com, xnour.xonap.com, opzzy.kefsww.com, tqrbq.mpckv.com
+hostname = zjgeo.eqobc.com, xnour.xonap.com, opzzy.kefsww.com, tqrbq.mpckv.com, ybvdvnkj.hgwzzij.com
 
 *******************************/
 
